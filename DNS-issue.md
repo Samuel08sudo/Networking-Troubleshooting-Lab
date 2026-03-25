@@ -20,3 +20,5 @@ Internet restored
 
 ## Commands Used
 ipconfig, ping, ipconfig /flushdns
+
+![DNS-FIXED](Screenshots/dns-issue.png)
