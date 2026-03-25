@@ -16,3 +16,4 @@ DHCP failure
 
 ## Result
 Valid IP assigned and connection restored
+![network-connectivity](Screenshots/network-connectivity.png)
